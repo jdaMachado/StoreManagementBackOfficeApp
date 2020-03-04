@@ -1,0 +1,11 @@
+ConsoleApp/bin/
+ConsoleApp/obj/
+Data/bin/
+Data/obj/
+Repository/bin/
+Repository/obj/
+Services/bin/
+Services/obj/
+WebApplication/bin/
+WebApplication/obj/
+.vs
